@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterestRatesTests", "InterestRatesTests\InterestRatesTests.csproj", "{2AC143AD-86F3-4425-9EB2-24022A9358EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterestRates", "InterestRates\InterestRates.csproj", "{B990E376-8EFB-47E6-8E48-1C9C5B0812F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AC143AD-86F3-4425-9EB2-24022A9358EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AC143AD-86F3-4425-9EB2-24022A9358EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AC143AD-86F3-4425-9EB2-24022A9358EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AC143AD-86F3-4425-9EB2-24022A9358EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B990E376-8EFB-47E6-8E48-1C9C5B0812F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B990E376-8EFB-47E6-8E48-1C9C5B0812F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B990E376-8EFB-47E6-8E48-1C9C5B0812F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B990E376-8EFB-47E6-8E48-1C9C5B0812F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7784AAF9-B042-40A7-84B4-4263CBF34B39}
+	EndGlobalSection
+EndGlobal
